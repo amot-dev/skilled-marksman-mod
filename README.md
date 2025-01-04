@@ -7,7 +7,7 @@
 This mod modifies bow behaviour to require some skill, increasing aim randomness the longer the bow is held fully charged. As of now, there's no visual indicator for this but it may be added.
 
 ## Downloads
-Available on [GitHub](https://github.com/amot-dev/skilled-marksman-mod/releases) and [Modrinth](https://modrinth.com/mod/skilled-marksman-mod).
+Available on [GitHub](https://github.com/amot-dev/skilled-marksman-mod/releases) and [Modrinth](https://modrinth.com/mod/skilled-marksman).
 Will soon be available on Curseforge (maybe).
 
 ## Installation
