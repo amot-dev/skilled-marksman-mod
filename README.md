@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Skilled Marksman Version](https://img.shields.io/github/v/release/amot-dev/cursed-table-revamped?include_prereleases)
+![Skilled Marksman Version](https://img.shields.io/github/v/release/amot-dev/skilled-marksman-mod?include_prereleases)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-blue)
 ![FabricMC Version](https://img.shields.io/badge/FabricMC-0.110.5%2B1.21.4-blue)
 # Skilled Marksman <img src="src/main/resources/assets/skilled-marksman/icon.png" width="32">
