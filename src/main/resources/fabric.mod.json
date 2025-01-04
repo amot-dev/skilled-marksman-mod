@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "skilled-marksman",
+  "version": "${version}",
+  "name": "Skilled Marksman",
+  "description": "Modifies bow behaviour to require some skill, increasing aim randomness the longer the bow is held fully charged.",
+  "authors": [
+    "amot-dev"
+  ],
+  "contact": {
+    "sources": "https://github.com/amot-dev/skilled-marksman-mod",
+    "issues": "https://github.com/amot-dev/skilled-marksman-mod/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/skilled-marksman/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "dev.amot.skilledMarksman.client.SkilledMarksmanClient"
+    ],
+    "main": [
+      "dev.amot.skilledMarksman.SkilledMarksman"
+    ]
+  },
+  "mixins": [
+    "skilled-marksman.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
